@@ -1,0 +1,16 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Super fun game night",
+            "date": "2022-02-20",
+            "time": "12:30",
+            "organizer": 1,
+            "attendees": [
+                1
+            ]
+        }
+    }
+]
